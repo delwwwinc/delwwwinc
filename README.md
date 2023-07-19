@@ -25,14 +25,14 @@ I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested
 
 <p>
   <a href="https://github.com/delwwwinc">
-    <!-- <img src="https://img.shields.io/badge/-adriantombu-100000?style=flat&logo=github&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/-delwwwinc-100000?style=flat&logo=github&logoColor=white"/>
 </a>
   <a href="https://linkedin.com/in/vincentdelaleu">
-    <!-- <img src="https://img.shields.io/badge/-adriantombu-0077B5?style=flat&logo=linkedin&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/-delwwwinc-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fosstodon.org/@at">
+  <!-- <a href="https://fosstodon.org/@at"> -->
     <!-- <img src="https://img.shields.io/badge/-at@fosstodon.org-6364ff?style=flat&logo=Mastodon&logoColor=white"/> -->
-  </a>
+  <!-- </a> -->
 </p>
 
 
