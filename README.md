@@ -37,7 +37,7 @@ I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ssantoshp/count.svg" />
+  <img src="https://profile-counter.glitch.me/delwwwinc/count.svg" />
 </p>
 
 <!--
