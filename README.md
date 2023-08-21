@@ -2,6 +2,11 @@
 
 I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested in open-source & ecology.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ssantoshp/count.svg" />
+</p>
+
 ### 👨🏻‍💻 About Me
 
 - 👯 I’m looking to be a paid contributor in open-source projects in Rust, Laravel & TypeScript
