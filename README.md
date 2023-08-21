@@ -2,11 +2,6 @@
 
 I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested in open-source & ecology.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ssantoshp/count.svg" />
-</p>
-
 ### 👨🏻‍💻 About Me
 
 - 👯 I’m looking to be a paid contributor in open-source projects in Rust, Laravel & TypeScript
@@ -40,6 +35,10 @@ I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested
   <!-- </a> -->
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ssantoshp/count.svg" />
+</p>
 
 <!--
 **delvvince/delvvince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
