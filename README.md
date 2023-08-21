@@ -24,9 +24,12 @@ I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested
 ### 🤝🏻 Connect with Me
 
 <p>
+  <a href="https://gitlab.com/delwwwinc">
+    <img src="https://img.shields.io/badge/-delwwwinc-100000?style=flat&logo=gitlab&logoColor=white"/>
+  </a>
   <a href="https://github.com/delwwwinc">
     <img src="https://img.shields.io/badge/-delwwwinc-100000?style=flat&logo=github&logoColor=white"/>
-</a>
+  </a>
   <a href="https://linkedin.com/in/vincentdelaleu">
     <img src="https://img.shields.io/badge/-delwwwinc-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
