@@ -7,7 +7,7 @@ I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested
 - 👯 I’m looking to be a paid contributor in open-source projects in Rust, Laravel & TypeScript
 - 🔭 I’m currently working on [addagen.io](https://addagen.io), [asymx.space](https://asymx.space), and other open-source projects
 - 🎓  I'm interested in learning more about database internals and data structures
-- 📝 I sometimes write articles on [argil-data.agency](https://argil-data.agency)
+- 📝 I sometimes write articles on [argile.agency](https://argile.agency)
 
 ### 🛠 Tech Stack
 
