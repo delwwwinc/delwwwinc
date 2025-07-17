@@ -40,11 +40,6 @@ I'm a PHP, Javascript (Typescript) & Rust developper from Switzerland interested
   <!-- </a> -->
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/delwwwinc/count.svg" />
-</p>
-
 <!--
 **delvvince/delvvince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
